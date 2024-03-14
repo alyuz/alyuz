@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alyuz
-- 👀 I’m interested in systems programming such as: web and mobile applications, websites and games. I know how to program in C#, C++, Python, React, React Native, HTML, CSS, Javascript, SQL and PHP.
+- 👀 I’m interested in systems programming such as: web and mobile applications, websites and games. I can program in C#, C++, Python, React, React Native, HTML, CSS, Javascript, SQL and PHP.
 - 🌱 I’m currently learning AWS, API's and Oracle.
 - 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me: my email: alicebeserra05@gmail.com or my LinkedIn: https://www.linkedin.com/in/alice-beserra-037b37260/.
