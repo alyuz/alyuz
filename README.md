@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/alyuz/magnus_rescue_game/assets/153461290/72fe9107-7e90-4409-87b8-445622316792" />
+<img src="https://github.com/alyuz/magnus_rescue_game/assets/153461290/d70668d8-ea56-448d-91e6-985dc51114df" />
 </div>
 
 # 💫 About Me:
