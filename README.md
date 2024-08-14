@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Hey!  I’m Alyuz (or Alice 🙃).<br>I’m a programmer and a systems developer 🫡.<br><br>My objective is to develop interactive and unique systems. I’m currently learning more about the área of technology meanwhile I’m searching to develop great programings.<br>I’ve already developed some website and applications projects (both web and mobile), including a PC game!<br>Some of my projects were developed usign HTML, CSS, JAVASCRIPT, C#, PHP, SQL and some other languages. For now I’m making my own portfolio so I can show more of my job and when I finish it I’ll let you guys know.<br><br>If you want to see contentes about programing, check on my profile!<br><br>Nice to meet you and hope you enjoy my profile!<br>
+Hey!  I’m Alyuz (or Alice).<br>I’m a programmer and a systems developer.<br><br>My objective is to develop interactive and unique systems. I’m currently learning more about the area of technology meanwhile I’m searching to develop great programings.<br>I’ve already developed some website and applications projects (both web and mobile), including a PC game!<br>Some of my projects were developed usign HTML, CSS, JAVASCRIPT, C#, PHP, SQL and some other languages.<br><br>If you want to see contentes about programing, check on my profile, hope you enjoy it!<br>
 
 
 ## 🌐 Socials:
