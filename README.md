@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Hey!  I’m Alyuz (or Alice).<br>I’m a programmer and my objective is to develop interactive and unique systems. I’m currently learning more about the area of technology meanwhile I’m searching to develop great programings. I’ve already developed some website and applications projects (both web and mobile), including a PC game!<br>Some of my projects were developed usign HTML, CSS, JAVASCRIPT, C#, PHP, SQL, C++ and Python.<br><br>Check on my profile, hope you enjoy it!<br>
+Hey!  I’m Alyuz (or Alice).<br>I’m a programmer and my objective is to develop interactive and unique systems. I’m currently learning more about the area of technology meanwhile I’m searching to develop great programings. I’ve already developed some website and applications projects (both web and mobile), including a PC game. Some of my projects were developed usign HTML, CSS, JAVASCRIPT, C#, PHP, SQL, C++ and Python.<br><br>Check on my profile, hope you enjoy it!<br>
 
 
 ## 🌐 Socials:
