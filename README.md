@@ -3,9 +3,9 @@
 </div>
 
 # 💫 About Me:
-<b>Hi, I’m Alice.<b><br>Data & Automation Analyst in training, based in Brazil.<br>I currently automate Tax & Treasury processes using Power Platform (Power Apps, Power BI, Power Automate), Alteryx and Python, and deliver technical training in Portuguese and English for multicultural teams. <br>
-<b>Background:<br> Systems Development (ETEC) · currently studying Software Engineering at PUC Campinas <br>
-<b>Stack:<b> Python · SQL · Power Platform · Alteryx · C# · Java <br>
+<b>Hi, I’m Alice.</b><br>Data & Automation Analyst in training, based in Brazil.<br>I currently automate Tax & Treasury processes using Power Platform (Power Apps, Power BI, Power Automate), Alteryx and Python, and deliver technical training in Portuguese and English for multicultural teams. <br>
+<b>Background:</b> Systems Development (ETEC) · currently studying Software Engineering at PUC Campinas <br>
+<b>Stack:</b> Python · SQL · Power Platform · Alteryx · C# · Java <br>
 
 
 ## 🌐 Socials:
