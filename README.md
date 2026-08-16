@@ -3,7 +3,9 @@
 </div>
 
 # 💫 About Me:
-Hey!  I’m Alyuz (or Alice).<br>I'm a programmer passionate about creating interactive and unique systems. Constantly expanding my knowledge in technology, I strive to develop high-quality software. I've worked on various projects, including automations, websites, web and mobile applications, and a PC game. My experience spans HTML, CSS, JavaScript, C#, PHP, SQL, C++, Python, and the Power Platform. Always eager to take on new challenges and craft innovative solutions!<br><br>Check on my profile, hope you enjoy it!<br>
+<b>Hi, I’m Alice.<b><br>Data & Automation Analyst in training, based in Brazil.<br>I currently automate Tax & Treasury processes using Power Platform (Power Apps, Power BI, Power Automate), Alteryx and Python, and deliver technical training in Portuguese and English for multicultural teams. <br>
+<b>Background:<br> Systems Development (ETEC) · currently studying Software Engineering at PUC Campinas <br>
+<b>Stack:<b> Python · SQL · Power Platform · Alteryx · C# · Java <br>
 
 
 ## 🌐 Socials:
